@@ -42,3 +42,4 @@ CREATE DATABASE `djangoblog` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8
     ./manage.py collectstatic --noinput
     ./manage.py compress --force
 
+温馨提示：本站初始源码来至https://github.com/liangliangyy/DjangoBlog，感谢博主分享
