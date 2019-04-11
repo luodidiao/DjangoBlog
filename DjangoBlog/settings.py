@@ -99,8 +99,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangoblog',
-        'USER': 'bloguser',
-        'PASSWORD': 'bloguser.com',
+        'USER': 'root',
+        'PASSWORD': 'luojun.com',
         'HOST': 'localhost',
         'PORT': 3306,
         'OPTIONS': {'charset': 'utf8mb4'},
