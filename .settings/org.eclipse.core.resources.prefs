@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//accounts/urls.py=utf-8
+encoding//accounts/user_login_backend.py=utf-8
+encoding//blog/forms.py=utf-8
+encoding//templates/blog/tags/article_meta_info.html=UTF-8
+encoding//templates/blog/tags/sidebar.html=UTF-8
+encoding//templates/comments/tags/comment_item.html=UTF-8
+encoding//templates/comments/tags/comment_list.html=UTF-8
+encoding//templates/comments/tags/post_comment.html=UTF-8
+encoding//templates/oauth/oauth_applications.html=UTF-8
+encoding//templates/oauth/require_email.html=UTF-8
+encoding//templates/search/search.html=UTF-8
+encoding//templates/share_layout/analyticscode.html=UTF-8
+encoding//templates/share_layout/footer.html=UTF-8
+encoding//templates/share_layout/nav.html=UTF-8
+encoding/<project>=UTF-8
